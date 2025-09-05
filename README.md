@@ -13,4 +13,5 @@
 
 ## When to use Lambda? 
 - _It's perfect for **mini tasks** that are **repeated frequently.**_
+- AWS Lambda is a serverless compute service that runs your code in response to events and automatically manages the compute resources for you. While Lambda can be part of a disaster recovery solution, such as triggering workflows in response to certain triggers.
 
